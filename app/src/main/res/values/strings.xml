@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="title">
+        <item>Quick Chicken Nuggets</item>
+        <item>Mediterranean Chicken and Pasta</item>
+        <item>Indian-Spiced Chicken Thighs</item>
+        <item>Maryland Fried Chicken with Creamy Gravy</item>
+        <item>Chicken with Artichokes</item>
+        <item>Crockpot Lasagna</item>
+        <item>Buffalo Chicken Drumsticks with Blue Cheese Dip</item>
+        <item>Chicken with Sourdough-Mushroom Stuffing</item>
+        <item>In-Your-Sleep Chili</item>
+    </string-array>
+    <string-array name="desc">
+        <item>These breaded chicken tenders are served with a mustard and mayonnaise mixture for dipping. Serve steamed green beans with this recipe for a quick-and-easy family meal.</item>
+        <item>Artichoke hearts, garlic, oregano, olives, roasted sweet peppers, and feta cheese flavor the pasta for this 30-minute dinner.</item>
+        <item>Dinner guests dont have to know how simple this crockpot roast is to make. Simmer pork with cranberry sauce and spices, then serve with tart apples for a delicious medley of textures.</item>
+        <item>What sets this fried chicken apart from the typical recipe is that milk is added after partially cooking the chicken so the pieces simmer rather than fry.</item>
+        <item>Using frozen artichokes in this Italian-style chicken dish makes assembling the casserole recipe convenient because the inedible parts of the vegetable are removed.</item>
+        <item>Meaty chicken pieces simmer with dried fruit in a spiced wine mixture for a richly flavored winter dish.</item>
+        <item>Italian sausage, basil, and oregano season this slow cooker chili.</item>
+        <item>Dress up chicken and stuffing with big chunks of sourdough bread and mushrooms. Finish off this slow cooked main dish with fresh gremolata. The lemon-peel, parsley, and chopped-walnut topping give it a fantastic citrusy flavor.</item>
+        <item>Nuts and cranberries fill these simple baked apples that cook in your slow-cooker. Top them with Sea Salt Caramel Sauce and, if you like, a scoop of vanilla ice cream. </item>
+    </string-array>
+    <string-array name="recipe">
+        <item>
+                1 cup bread crumbs\n1/2 teaspoon garlic powder\n 1/2 teaspoon dried thyme\n1/4 cup Dijon mustard\n1/3 cup light mayonnaise\n1 1/2 pounds chicken tenders, cut into 1-inch pieces\n3/4 pound green beans, washed, trimmed and steamed\n\nHeat oven to broil.\nCoat baking rack with nonstick cooking spray.\nPlace rack over baking sheet; set aside.\nStir together bread crumbs, garlic powder and thyme in a pie plate; set aside.\nStir together mustard and mayonnaise.\nReserve about 1/2 cup of mustard mixture for dipping sauce.\nBrush chicken pieces with remaining mustard mix; place chicken in pie plate with bread crumb mixture, spooning crumbs on top of pieces and pressing to adhere.\nTransfer to prepared baking rack. Broil for 10 minutes or until cooked through.\nServe with reserved dipping sauce and green beans on the side.
+        </item>
+        <item>
+                1 cup bread crumbs\n1/2 teaspoon garlic powder\n 1/2 teaspoon dried thyme\n1/4 cup Dijon mustard\n1/3 cup light mayonnaise\n1 1/2 pounds chicken tenders, cut into 1-inch pieces\n3/4 pound green beans, washed, trimmed and steamed\n\nHeat oven to broil.\nCoat baking rack with nonstick cooking spray.\nPlace rack over baking sheet; set aside.\nStir together bread crumbs, garlic powder and thyme in a pie plate; set aside.\nStir together mustard and mayonnaise.\nReserve about 1/2 cup of mustard mixture for dipping sauce.\nBrush chicken pieces with remaining mustard mix; place chicken in pie plate with bread crumb mixture, spooning crumbs on top of pieces and pressing to adhere.\nTransfer to prepared baking rack. Broil for 10 minutes or until cooked through.\nServe with reserved dipping sauce and green beans on the side.
+        </item>
+        <item>
+                1 cup bread crumbs\n1/2 teaspoon garlic powder\n 1/2 teaspoon dried thyme\n1/4 cup Dijon mustard\n1/3 cup light mayonnaise\n1 1/2 pounds chicken tenders, cut into 1-inch pieces\n3/4 pound green beans, washed, trimmed and steamed\n\nHeat oven to broil.\nCoat baking rack with nonstick cooking spray.\nPlace rack over baking sheet; set aside.\nStir together bread crumbs, garlic powder and thyme in a pie plate; set aside.\nStir together mustard and mayonnaise.\nReserve about 1/2 cup of mustard mixture for dipping sauce.\nBrush chicken pieces with remaining mustard mix; place chicken in pie plate with bread crumb mixture, spooning crumbs on top of pieces and pressing to adhere.\nTransfer to prepared baking rack. Broil for 10 minutes or until cooked through.\nServe with reserved dipping sauce and green beans on the side.
+        </item>
+        <item>
+                1 cup bread crumbs\n1/2 teaspoon garlic powder\n 1/2 teaspoon dried thyme\n1/4 cup Dijon mustard\n1/3 cup light mayonnaise\n1 1/2 pounds chicken tenders, cut into 1-inch pieces\n3/4 pound green beans, washed, trimmed and steamed\n\nHeat oven to broil.\nCoat baking rack with nonstick cooking spray.\nPlace rack over baking sheet; set aside.\nStir together bread crumbs, garlic powder and thyme in a pie plate; set aside.\nStir together mustard and mayonnaise.\nReserve about 1/2 cup of mustard mixture for dipping sauce.\nBrush chicken pieces with remaining mustard mix; place chicken in pie plate with bread crumb mixture, spooning crumbs on top of pieces and pressing to adhere.\nTransfer to prepared baking rack. Broil for 10 minutes or until cooked through.\nServe with reserved dipping sauce and green beans on the side.
+        </item>
+        <item>
+                1 cup bread crumbs\n1/2 teaspoon garlic powder\n 1/2 teaspoon dried thyme\n1/4 cup Dijon mustard\n1/3 cup light mayonnaise\n1 1/2 pounds chicken tenders, cut into 1-inch pieces\n3/4 pound green beans, washed, trimmed and steamed\n\nHeat oven to broil.\nCoat baking rack with nonstick cooking spray.\nPlace rack over baking sheet; set aside.\nStir together bread crumbs, garlic powder and thyme in a pie plate; set aside.\nStir together mustard and mayonnaise.\nReserve about 1/2 cup of mustard mixture for dipping sauce.\nBrush chicken pieces with remaining mustard mix; place chicken in pie plate with bread crumb mixture, spooning crumbs on top of pieces and pressing to adhere.\nTransfer to prepared baking rack. Broil for 10 minutes or until cooked through.\nServe with reserved dipping sauce and green beans on the side.
+        </item>
+        <item>
+                1 cup bread crumbs\n1/2 teaspoon garlic powder\n 1/2 teaspoon dried thyme\n1/4 cup Dijon mustard\n1/3 cup light mayonnaise\n1 1/2 pounds chicken tenders, cut into 1-inch pieces\n3/4 pound green beans, washed, trimmed and steamed\n\nHeat oven to broil.\nCoat baking rack with nonstick cooking spray.\nPlace rack over baking sheet; set aside.\nStir together bread crumbs, garlic powder and thyme in a pie plate; set aside.\nStir together mustard and mayonnaise.\nReserve about 1/2 cup of mustard mixture for dipping sauce.\nBrush chicken pieces with remaining mustard mix; place chicken in pie plate with bread crumb mixture, spooning crumbs on top of pieces and pressing to adhere.\nTransfer to prepared baking rack. Broil for 10 minutes or until cooked through.\nServe with reserved dipping sauce and green beans on the side.
+        </item>
+        <item>
+                1 cup bread crumbs\n1/2 teaspoon garlic powder\n 1/2 teaspoon dried thyme\n1/4 cup Dijon mustard\n1/3 cup light mayonnaise\n1 1/2 pounds chicken tenders, cut into 1-inch pieces\n3/4 pound green beans, washed, trimmed and steamed\n\nHeat oven to broil.\nCoat baking rack with nonstick cooking spray.\nPlace rack over baking sheet; set aside.\nStir together bread crumbs, garlic powder and thyme in a pie plate; set aside.\nStir together mustard and mayonnaise.\nReserve about 1/2 cup of mustard mixture for dipping sauce.\nBrush chicken pieces with remaining mustard mix; place chicken in pie plate with bread crumb mixture, spooning crumbs on top of pieces and pressing to adhere.\nTransfer to prepared baking rack. Broil for 10 minutes or until cooked through.\nServe with reserved dipping sauce and green beans on the side.
+        </item>
+        <item>
+                1 cup bread crumbs\n1/2 teaspoon garlic powder\n 1/2 teaspoon dried thyme\n1/4 cup Dijon mustard\n1/3 cup light mayonnaise\n1 1/2 pounds chicken tenders, cut into 1-inch pieces\n3/4 pound green beans, washed, trimmed and steamed\n\nHeat oven to broil.\nCoat baking rack with nonstick cooking spray.\nPlace rack over baking sheet; set aside.\nStir together bread crumbs, garlic powder and thyme in a pie plate; set aside.\nStir together mustard and mayonnaise.\nReserve about 1/2 cup of mustard mixture for dipping sauce.\nBrush chicken pieces with remaining mustard mix; place chicken in pie plate with bread crumb mixture, spooning crumbs on top of pieces and pressing to adhere.\nTransfer to prepared baking rack. Broil for 10 minutes or until cooked through.\nServe with reserved dipping sauce and green beans on the side.
+        </item>
+        <item>
+                1 cup bread crumbs\n1/2 teaspoon garlic powder\n 1/2 teaspoon dried thyme\n1/4 cup Dijon mustard\n1/3 cup light mayonnaise\n1 1/2 pounds chicken tenders, cut into 1-inch pieces\n3/4 pound green beans, washed, trimmed and steamed\n\nHeat oven to broil.\nCoat baking rack with nonstick cooking spray.\nPlace rack over baking sheet; set aside.\nStir together bread crumbs, garlic powder and thyme in a pie plate; set aside.\nStir together mustard and mayonnaise.\nReserve about 1/2 cup of mustard mixture for dipping sauce.\nBrush chicken pieces with remaining mustard mix; place chicken in pie plate with bread crumb mixture, spooning crumbs on top of pieces and pressing to adhere.\nTransfer to prepared baking rack. Broil for 10 minutes or until cooked through.\nServe with reserved dipping sauce and green beans on the side.
+        </item>
+    </string-array>
+</resources>
